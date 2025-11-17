@@ -1,0 +1,5 @@
+- Top 5 customers contribute a large portion of the total revenue
+- Category x dominates revenue compared to other categories
+- Employees in department Y earn above the deparment average
+- Cities with more gold customers may be good areas to focus on for promotions
+- Different cities have different mixes of gold, silver, and bronze customers which can help the business understand where customer loyalty is the strongest. 
